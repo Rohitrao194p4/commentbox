@@ -1,0 +1,91 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.profile-card {
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  font-size: 24px;
+}
+.god {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.youth {
+  display: flex;
+  flex-direction: column;
+}
+.list-container {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+.para-1 {
+  font-size: 20px;
+}
+.button-card {
+  width: 80vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bold {
+  height: 50px;
+  width: 50px;
+  color: white;
+  font-size: 18px;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.image-1 {
+  height: 40px;
+  width: 40px;
+  background-color: transparent;
+  margin-right: 10px;
+}
+.like {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 18px;
+}
+.blue {
+  color: #0ea5e9;
+}

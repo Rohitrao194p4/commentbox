@@ -1,0 +1,73 @@
+/* Write your CSS here */
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+  overflow-y: auto;
+}
+.input-1 {
+  height: 58px;
+  width: 330px;
+  font-size: 20px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+.input-2 {
+  height: 136px;
+  width: 330px;
+  font-size: 22px;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  width: 90vw;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 90vw;
+}
+.image {
+  height: 280px;
+  width: 280px;
+}
+.comment-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 50vh;
+  margin-left: 0px;
+}
+.button {
+  color: #ffffff;
+  font-size: 24px;
+  background-color: #0ea5e9;
+  height: 50px;
+  width: 220px;
+  border-width: 0px;
+}
+.span {
+  color: white;
+  background-color: #0ea5e9;
+  padding: 10px;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.comment-box {
+  min-height: 20vh;
+}
+.lunch{
+  list-style-type: none;
+}
